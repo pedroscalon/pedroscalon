@@ -15,4 +15,4 @@ Formado em tecnólogo em redes de computadores Unoeste, e estudando para certifi
 
 • E-mail: pedroscalon01@gmail.com
 
-• credly.com/users/pedro-scalon/badges
+• Badges: credly.com/users/pedro-scalon/badges

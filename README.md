@@ -1,14 +1,11 @@
 Olá eu sou o Pedro, gosto de aprender assuntos relacionados a tecnologias.
-Formado em tecnólogo em redes de computadores Unoeste, e estudando para certificações.
+Formado em tecnólogo em redes de computadores Unoeste, e estudando para certificações, atualmente trabalho como sysadmin.
 
-• Certificado: CCNA 200-301 R&S - Nº CSCO14052200	
-
-• Certificado: JNCIA103 R&S - Nº JPR00302862
-
-• Certificado: HCIA R&S - Nº 01010010180806217736313
-
-• Certificado: HCIA Datacom - Nº 010103901113808463211409
-
+• Certificado: LPIC I e II
+• Certificado: CCNA 200-301 R&S 	
+• Certificado: JNCIA103 R&S
+• Certificado: HCIA R&S
+• Certificado: HCIA Datacom
 • Badges: credly.com/users/pedro-scalon/badges
 
 <div>
@@ -17,7 +14,7 @@ Formado em tecnólogo em redes de computadores Unoeste, e estudando para certifi
 </div>
   
  ## Perfis sociais: 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scalon-b78239161/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scalon/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroscalon01@gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](live:pedroscalon01/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white

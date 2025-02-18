@@ -2,10 +2,15 @@ Olá eu sou o Pedro, gosto de aprender assuntos relacionados a tecnologias.
 Formado em tecnólogo em redes de computadores Unoeste, e estudando para certificações, atualmente trabalho como sysadmin.
 
 • Certificado: LPIC I e II
+
 • Certificado: CCNA 200-301 R&S 	
+
 • Certificado: JNCIA103 R&S
+
 • Certificado: HCIA R&S
+
 • Certificado: HCIA Datacom
+
 • Badges: credly.com/users/pedro-scalon/badges
 
 <div>
